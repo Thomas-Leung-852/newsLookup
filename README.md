@@ -15,4 +15,5 @@ node index.js -geturl "https://www.w3newspapers.com/newssites/"
 
 ## [4] example:
 
-![image](https://github.com/Thomas-Leung-852/newsLookup/assets/85861640/ccf406a8-8fb5-48f3-84b1-f4c8477d3d1a)
+![image](https://github.com/Thomas-Leung-852/newsLookup/assets/85861640/16bdb323-a16d-4c9d-bb5e-c4e92f0e30e2)
+
