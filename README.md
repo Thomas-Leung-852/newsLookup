@@ -3,7 +3,7 @@
 ## [1] Installation
 
 1. git clone https://github.com/Thomas-Leung-852/newsLookup.git
-2. git install
+2. npm install
 
 ## [2] Seach by keywords
 
