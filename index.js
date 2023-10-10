@@ -73,7 +73,6 @@ const doSearch = async () => {
             searchByUrl("",urls[i], keywords, true).then(elm=> { 
 
                 if(elm.site[0].kwFound == "Found" || elm.site[0].kwFound == "Not Found"){
-                    
                     if(process.argv[3] === "-all"){
                         emoji = (elm.site[0].kwFound == "Found" ? "\u{2705}" : "\u{274C}")
                         siteFound = siteFound + (elm.site[0].kwFound == "Found" ? 1 : 0)
